@@ -1460,7 +1460,7 @@
             defaultToken: "your-default-token-for-prod",
             commentCharLimit: "500",
             postCharacterLimit: "5000",
-            postTitleCharacterLimit: "180",
+            postTitleCharacterLimit: "4980",
             postSeeMoreLimit: "170",
             commentSeeMoreLimit: "170",
             pollOptionLimit: "25",
